@@ -30,11 +30,7 @@ const Features = () => {
                         </div>
                         <div className='bg-[rgba(255, 255, 255, 0.04)] rounded-[35px] h-96 shadow-2xl p=8
                         items-center flex justify-center hover:-translate-y-4 transition-all duration-300 cursor-pointer'> 
-                        <div>
-                            <img src={featuredimg} alt="" />
-                            <h5 className='text-2xl font-semibold text-primary px-5 text-center
-                            mt-5'>Conventient study schedule</h5>
-                        </div>
+
                         </div>
                     </div>
                 </div>
